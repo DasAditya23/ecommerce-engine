@@ -1,3 +1,6 @@
+**🔴 Live Demo:** [https://ecommerce-engine-1.onrender.com/docs](https://ecommerce-engine-1.onrender.com/docs) 
+*(Note: Free tier hosting, so the first load may take 30 seconds to wake up).*
+
 # Secure E-Commerce Order Engine
 
 A transactional backend API built with Python, FastAPI, and SQLAlchemy. Features JWT authentication, race-condition-safe checkout logic, and complex SQL reporting.
